@@ -1,6 +1,8 @@
-# GPTTerraria by newizzz for myself and Ahtung
+## GPTTerraria by newizzz for myself and Ahtung
 
-## Призыватель:
+# Pre-hard mode 
+
+### Призыватель:
 ```py
 - Броня: Роба из ткани (Warding, если это возможно)
 - Оружие: Древний скипетр (Ancient Scepter)
@@ -10,7 +12,7 @@
 --- Значок путешественника (Traveler's Emblem)
 ```
 
-## Йойо:
+### Йойо:
 ```py
 - Броня: Шерстяная одежда (Warding, если это возможно)
 - Оружие: Золотое йо-йо (Gold YoYo)
@@ -19,7 +21,7 @@
 --- Глазный шар (Eye of the Cthulhu)
 --- Багровое перо (Red's Wings)
 ```
-## Маг:
+### Маг:
 ```py
 - Броня: Роба из ткани (Warding, если это возможно)
 - Оружие: Волшебная палочка (Magic Wand)
@@ -29,7 +31,7 @@
 --- Механический шар (Mechanical Cart)
 ```
 
-## Мечник:
+### Мечник:
 ```py
 - Броня: Кожаная куртка (Warding, если это возможно)
 - Оружие: Медный короткий меч (Copper Shortsword)
